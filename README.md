@@ -1,0 +1,2 @@
+# slidesmanual
+slides visualizados manualmente.
